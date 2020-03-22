@@ -1,5 +1,5 @@
 # add-light-probe-add-on
-Blender add-on to add a light probe aligned with selected vertices
+Blender add-on to add a light probe aligned with selected vertices<BR>
 Intall the zip as usual
 Select one object or more in 3dview (eventually in edit mode), type  F3 and search for "aligned"
 Choose the type(s) of probe(s) to be added (eventually just a bounding box)
