@@ -2,7 +2,7 @@
 Blender 2.8 (or Blender 2.90.1 if you use version 0.4 or 0.5) add-on to add a light probe aligned with selected vertices<BR>
 Intall the zip as usual<BR>
 
-Notes for 0.4 (assuming you have been redirected here from the demo/tuto on youtube)
+Notes for 0.4 (assuming you have been redirected here from the demo/tuto on youtube)<BR>
 Select one object or more in 3Dview (eventually in edit mode), type  F3 and search for "aligned"<BR>
 Choose the type(s) of probe(s) to be added (eventually just a bounding box)<BR>
 Choose a number of samples of rotation around different axis (if needed) and beware brut force is used (avoid too many samples)<BR>
